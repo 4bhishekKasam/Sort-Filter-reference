@@ -1,0 +1,507 @@
+{
+    "movies": [
+        {
+          "Title": "Django Unchained",
+          "Year": "2012",
+          "Rated": "UNRATED",
+          "Released": "25 Dec 2012",
+          "Runtime": "92 min",
+          "Genre": "Action, Western",
+          "Director": "Sergio Corbucci",
+          "Writer": "Sergio Corbucci (story), Bruno Corbucci (story), Sergio Corbucci (screenplay), Bruno Corbucci (screenplay), Franco Rossetti (screenplay), Piero Vivarelli (screenplay), Geoffrey Copleston (English version by)",
+          "Actors": "Franco Nero, José Bódalo, Loredana Nusciak, Ángel Álvarez",
+          "Plot": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+          "Language": "English",
+          "Country": "USA",
+          "Awards": "Won 2 Oscars. Another 56 wins & 151 nominations.",
+          "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_SX300.jpg",
+          "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.8/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "92%"
+            }
+          ],
+          "Metascore": "N/A",
+          "imdbRating": "7.3",
+          "imdbVotes": "20,100",
+          "imdbID": "tt0060315",
+          "Type": "movie",
+          "DVD": "24 Sep 2002",
+          "BoxOffice": "$25,097",
+          "Production": "Rialto Pictures",
+          "Website": "http://www.rialtopictures.com/django",
+          "Response": "True"
+        },
+        {
+          "Title": "Wonder Woman",
+          "Year": "2017",
+          "Rated": "PG-13",
+          "Released": "02 Jun 2017",
+          "Runtime": "141 min",
+          "Genre": "Action, Adventure, Fantasy",
+          "Director": "Patty Jenkins",
+          "Writer": "Allan Heinberg (screenplay), Zack Snyder (story by), Allan Heinberg (story by), Jason Fuchs (story by), William Moulton Marston (Wonder Woman created by)",
+          "Actors": "Gal Gadot, Chris Pine, Connie Nielsen, Robin Wright",
+          "Plot": "Before she was Wonder Woman, she was Diana, princess of the Amazons, trained warrior. When a pilot crashes and tells of conflict in the outside world, she leaves home to fight a war, discovering her full powers and true destiny.",
+          "Language": "English, German, Dutch",
+          "Country": "USA, China, Hong Kong, UK, Italy, Canada, New Zealand",
+          "Awards": "3 wins & 7 nominations.",
+          "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDFmZjgyMTEtYTk5MC00NmY0LWJhZjktOWY2MzI5YjkzODNlXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg",
+          "Ratings": [
+
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.9/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "92%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "76/100"
+            }
+
+          ],
+          "Metascore": "76",
+          "imdbRating": "7.9",
+          "imdbVotes": "223,245",
+          "imdbID": "tt0451279",
+          "Type": "movie",
+          "DVD": "N/A",
+          "BoxOffice": "$399,506,079",
+          "Production": "Warner Bros. Pictures",
+          "Website": "http://wonderwomanfilm.com/",
+          "Response": "True"
+        },
+        {
+          "Title": "Aftermath",
+          "Year": "2017",
+          "Rated": "R",
+          "Released": "07 Apr 2017",
+          "Runtime": "94 min",
+          "Genre": "Drama, Thriller",
+          "Director": "Elliott Lester",
+          "Writer": "Javier Gullón",
+          "Actors": "Arnold Schwarzenegger, Scoot McNairy, Maggie Grace, Judah Nelson",
+          "Plot": "Two strangers' lives become inextricably bound together after a devastating plane crash.",
+          "Language": "English",
+          "Country": "USA, UK",
+          "Awards": "N/A",
+          "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMWFkYmM2ZTctNmZjZi00MWQwLWI0MjctZDdiNjJlMTlmNzdkL2ltYWdlXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg",
+          "Ratings": [
+              {
+                  "Source": "Internet Movie Database",
+                  "Value": "5.7/10"
+              },
+              {
+                  "Source": "Rotten Tomatoes",
+                  "Value": "39%"
+              },
+              {
+                  "Source": "Metacritic",
+                  "Value": "44/100"
+              }
+          ],
+          "Metascore": "44",
+          "imdbRating": "5.7",
+          "imdbVotes": "9,544",
+          "imdbID": "tt4581576",
+          "Type": "movie",
+          "DVD": "06 Jun 2017",
+          "BoxOffice": "N/A",
+          "Production": "Lionsgate Premiere",
+          "Website": "N/A",
+          "Response": "True"
+        },
+        {
+          "Title": "Logan Lucky",
+          "Year": "2017",
+          "Rated": "PG-13",
+          "Released": "18 Aug 2017",
+          "Runtime": "119 min",
+          "Genre": "Comedy, Crime, Drama",
+          "Director": "Steven Soderbergh",
+          "Writer": "Rebecca Blunt",
+          "Actors": "Farrah Mackenzie, Channing Tatum, Jim O'Heir, Riley Keough",
+          "Plot": "Two brothers attempt to pull off a heist during a NASCAR race in North Carolina.",
+          "Language": "English",
+          "Country": "USA",
+          "Awards": "N/A",
+          "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYyODg0NDU1OV5BMl5BanBnXkFtZTgwNjcxMzU0MjI@._V1_SX300.jpg",
+          "Ratings": [
+              {
+                  "Source": "Internet Movie Database",
+                  "Value": "7.5/10"
+              },
+              {
+                  "Source": "Rotten Tomatoes",
+                  "Value": "93%"
+              },
+              {
+                  "Source": "Metacritic",
+                  "Value": "78/100"
+              }
+          ],
+          "Metascore": "78",
+          "imdbRating": "7.5",
+          "imdbVotes": "3,570",
+          "imdbID": "tt5439796",
+          "Type": "movie",
+          "DVD": "N/A",
+          "BoxOffice": "N/A",
+          "Production": "Fingerprint Releasing / Bleecker Street",
+          "Website": "http://loganluckymovie.com/",
+          "Response": "True"
+        },
+        {
+          "Title": "Justice League",
+          "Year": "2001–2004",
+          "Rated": "TV-PG",
+          "Released": "17 Nov 2001",
+          "Runtime": "22 min",
+          "Genre": "Animation, Action, Adventure",
+          "Director": "N/A",
+          "Writer": "Bob Kane, William Moulton Marston, Joe Shuster, Jerry Siegel, Jack Kirby, Otto Binder, H.P. Lovecraft, Christopher Keenan, Linda Steiner, Gardner Fox",
+          "Actors": "Carl Lumbly, Phil LaMarr, Michael Rosenbaum, George Newbern",
+          "Plot": "Seven of the most formidable heroes form arguably the most powerful team ever.",
+          "Language": "English",
+          "Country": "USA",
+          "Awards": "Nominated for 2 Primetime Emmys. Another 9 nominations.",
+          "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWRhYTU4NmMtZTZjZi00MzQzLThmMWEtMWFmZWEwN2NmNmE4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+          "Ratings": [
+              {
+                  "Source": "Internet Movie Database",
+                  "Value": "8.6/10"
+              }
+          ],
+          "Metascore": "N/A",
+          "imdbRating": "8.6",
+          "imdbVotes": "30,557",
+          "imdbID": "tt0275137",
+          "Type": "series",
+          "totalSeasons": "5",
+          "Response": "True"
+        },
+        {
+          "Title": "Valerian and the City of a Thousand Planets",
+          "Year": "2017",
+          "Rated": "PG-13",
+          "Released": "21 Jul 2017",
+          "Runtime": "137 min",
+          "Genre": "Action, Adventure, Fantasy",
+          "Director": "Luc Besson",
+          "Writer": "Pierre Christin (based on the comic book series \"Valerian and Laureline\" by), Jean-Claude Mézières (based on the comic book series \"Valerian and Laureline\" by), Luc Besson (screenplay)",
+          "Actors": "Dane DeHaan, Cara Delevingne, Clive Owen, Rihanna",
+          "Plot": "A dark force threatens Alpha, a vast metropolis and home to species from a thousand planets. Special operatives Valerian and Laureline must race to identify the marauding menace and safeguard not just Alpha, but the future of the universe.",
+          "Language": "English, French",
+          "Country": "France",
+          "Awards": "N/A",
+          "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMDAxNDUyNV5BMl5BanBnXkFtZTgwOTc3MzcxMjI@._V1_SX300.jpg",
+          "Ratings": [
+              {
+                  "Source": "Internet Movie Database",
+                  "Value": "6.8/10"
+              },
+              {
+                  "Source": "Rotten Tomatoes",
+                  "Value": "51%"
+              },
+              {
+                  "Source": "Metacritic",
+                  "Value": "51/100"
+              }
+          ],
+          "Metascore": "51",
+          "imdbRating": "6.8",
+          "imdbVotes": "23,083",
+          "imdbID": "tt2239822",
+          "Type": "movie",
+          "DVD": "N/A",
+          "BoxOffice": "$38,359,317",
+          "Production": "EuropaCorp / STXfilms",
+          "Website": "http://valerianmovie.com/",
+          "Response": "True"
+        },
+      {"Title":"Jack Reacher",
+        "Year":"2012",
+        "Rated":"PG-13",
+        "Released":"21 Dec 2012",
+        "Runtime":"130 min",
+        "Genre":"Action, Crime, Mystery",
+        "Director":"Christopher McQuarrie",
+        "Writer":"Lee Child (based on the book \"One Shot\" by), Christopher McQuarrie (written for the screen by)",
+        "Actors":"Tom Cruise, Rosamund Pike, Richard Jenkins, David Oyelowo",
+        "Plot":"A homicide investigator digs deeper into a case involving a trained military sniper who shot five random victims.",
+        "Language":"English","Country":"USA","Awards":"1 win & 5 nominations.",
+        "Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTM1NjUxMDI3OV5BMl5BanBnXkFtZTcwNjg1ODM3OA@@._V1_SX300.jpg",
+        "Ratings":[
+          {"Source":"Internet Movie Database","Value":"7.0/10"},
+          {"Source":"Rotten Tomatoes","Value":"62%"},
+          {"Source":"Metacritic","Value":"50/100"}],"Metascore":"50",
+          "imdbRating":"7.0","imdbVotes":"255,411","imdbID":"tt0790724",
+          "Type":"movie","DVD":"07 May 2013","BoxOffice":"$80,033,643",
+          "Production":"Paramount Pictures",
+          "Website":"http://www.jackreachermovie.com/","Response":"True"},
+        {
+          "Title": "The Circle",
+          "Year": "2017",
+          "Rated": "PG-13",
+          "Released": "28 Apr 2017",
+          "Runtime": "110 min",
+          "Genre": "Drama, Sci-Fi, Thriller",
+          "Director": "James Ponsoldt",
+          "Writer": "James Ponsoldt (screenplay), Dave Eggers (screenplay), Dave Eggers (based on the novel by)",
+          "Actors": "Emma Watson, Ellar Coltrane, Glenne Headly, Bill Paxton",
+          "Plot": "A woman lands a dream job at a powerful tech company called the Circle, only to uncover an agenda that will affect the lives of all of humanity.",
+          "Language": "English",
+          "Country": "United Arab Emirates, USA",
+          "Awards": "1 nomination.",
+          "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjY2OTM2Njc3Ml5BMl5BanBnXkFtZTgwNDgzODU3MTI@._V1_SX300.jpg",
+          "Ratings": [
+              {
+                  "Source": "Internet Movie Database",
+                  "Value": "5.3/10"
+              },
+              {
+                  "Source": "Rotten Tomatoes",
+                  "Value": "15%"
+              },
+              {
+                  "Source": "Metacritic",
+                  "Value": "43/100"
+              }
+          ],
+          "Metascore": "43",
+          "imdbRating": "5.3",
+          "imdbVotes": "32,106",
+          "imdbID": "tt4287320",
+          "Type": "movie",
+          "DVD": "01 Aug 2017",
+          "BoxOffice": "$20,476,300",
+          "Production": "EuropaCorp / STXfilms",
+          "Website": "http://wearethecircle.com",
+          "Response": "True"
+        },
+        {
+          "Title": "Kong: Skull Island",
+          "Year": "2017",
+          "Rated": "PG-13",
+          "Released": "10 Mar 2017",
+          "Runtime": "118 min",
+          "Genre": "Action, Adventure, Fantasy",
+          "Director": "Jordan Vogt-Roberts",
+          "Writer": "Dan Gilroy (screenplay), Max Borenstein (screenplay), Derek Connolly (screenplay), John Gatins (story by)",
+          "Actors": "Tom Hiddleston, Samuel L. Jackson, Brie Larson, John C. Reilly",
+          "Plot": "A team of scientists explore an uncharted island in the Pacific, venturing into the domain of the mighty Kong, and must fight to escape a primal Eden.",
+          "Language": "English, Vietnamese",
+          "Country": "USA, China, Australia, Canada",
+          "Awards": "1 win & 6 nominations.",
+          "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwMzI5ODEwNF5BMl5BanBnXkFtZTgwNjAzNjI2MDI@._V1_SX300.jpg",
+          "Ratings": [
+              {
+                  "Source": "Internet Movie Database",
+                  "Value": "6.8/10"
+              },
+              {
+                  "Source": "Rotten Tomatoes",
+                  "Value": "76%"
+              },
+              {
+                  "Source": "Metacritic",
+                  "Value": "62/100"
+              }
+          ],
+          "Metascore": "62",
+          "imdbRating": "6.8",
+          "imdbVotes": "151,874",
+          "imdbID": "tt3731562",
+          "Type": "movie",
+          "DVD": "18 Jul 2017",
+          "BoxOffice": "$167,986,460",
+          "Production": "Warner Bros. Pictures/Legendary Pictures",
+          "Website": "http://kongskullislandmovie.com/",
+          "Response": "True"
+        },
+        {
+          "Title": "The Big Sick",
+          "Year": "2017",
+          "Rated": "R",
+          "Released": "14 Jul 2017",
+          "Runtime": "120 min",
+          "Genre": "Comedy, Romance",
+          "Director": "Michael Showalter",
+          "Writer": "Emily V. Gordon, Kumail Nanjiani",
+          "Actors": "Kumail Nanjiani, Zoe Kazan, Holly Hunter, Ray Romano",
+          "Plot": "Pakistan-born comedian Kumail Nanjiani and grad student Emily Gardner fall in love but struggle as their cultures clash. When Emily contracts a mysterious illness, Kumail finds himself forced to face her feisty parents, his family's expectations, and his true feelings.",
+          "Language": "English, Urdu",
+          "Country": "USA",
+          "Awards": "4 wins & 2 nominations.",
+          "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWM4YzZjOTEtZmU5ZS00ZTRkLWFiNjAtZTEwNzIzMDM5MjdmXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SX300.jpg",
+          "Ratings": [
+              {
+                  "Source": "Internet Movie Database",
+                  "Value": "8.1/10"
+              },
+              {
+                  "Source": "Rotten Tomatoes",
+                  "Value": "98%"
+              },
+              {
+                  "Source": "Metacritic",
+                  "Value": "86/100"
+              }
+          ],
+          "Metascore": "86",
+          "imdbRating": "8.1",
+          "imdbVotes": "13,171",
+          "imdbID": "tt5462602",
+          "Type": "movie",
+          "DVD": "N/A",
+          "BoxOffice": "$39,212,024",
+          "Production": "Amazon Studios",
+          "Website": "http://www.thebigsickmovie.com/",
+          "Response": "True"
+        },
+        {
+          "Title": "Thor: Ragnarok",
+          "Year": "2017",
+          "Rated": "N/A",
+          "Released": "03 Nov 2017",
+          "Runtime": "N/A",
+          "Genre": "Action, Adventure, Fantasy",
+          "Director": "Taika Waititi",
+          "Writer": "Craig Kyle (story by), Christopher Yost (story by), Eric Pearson (story by), Eric Pearson (screenplay), Stan Lee (based on the Marvel comics by), Larry Lieber (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by)",
+          "Actors": "Idris Elba, Cate Blanchett, Benedict Cumberbatch, Tom Hiddleston",
+          "Plot": "Imprisoned, the mighty Thor finds himself in a lethal gladiatorial contest against the Hulk, his former ally. Thor must fight for survival and race against time to prevent the all-powerful Hela from destroying his home and the Asgardian civilization.",
+          "Language": "English",
+          "Country": "USA",
+          "Awards": "2 nominations.",
+          "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_SX300.jpg",
+          "Ratings": [ ],
+          "Metascore": "N/A",
+          "imdbRating": "N/A",
+          "imdbVotes": "N/A",
+          "imdbID": "tt3501632",
+          "Type": "movie",
+          "DVD": "N/A",
+          "BoxOffice": "N/A",
+          "Production": "Walt Disney Pictures",
+          "Website": "N/A",
+          "Response": "True"
+        },
+        {
+          "Title": "Happy Death Day",
+          "Year": "2017",
+          "Rated": "PG-13",
+          "Released": "13 Oct 2017",
+          "Runtime": "N/A",
+          "Genre": "Horror, Mystery, Thriller",
+          "Director": "Christopher Landon",
+          "Writer": "Scott Lobdell",
+          "Actors": "Jessica Rothe, Israel Broussard, Ruby Modine, Rachel Matthews",
+          "Plot": "A college student relives the day of her murder with both its unexceptional details and terrifying end until she discovers her killer's identity.",
+          "Language": "English",
+          "Country": "USA",
+          "Awards": "N/A",
+          "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMmNiMjBmYWItMTFjMS00ZmRjLWIwNDgtMGNkYTI2M2FkOWJiXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SX300.jpg",
+          "Ratings": [ ],
+          "Metascore": "N/A",
+          "imdbRating": "N/A",
+          "imdbVotes": "N/A",
+          "imdbID": "tt5308322",
+          "Type": "movie",
+          "DVD": "N/A",
+          "BoxOffice": "N/A",
+          "Production": "Universal Studios",
+          "Website": "N/A",
+          "Response": "True"
+        },
+        {
+          "Title": "Kidnap",
+          "Year": "2017",
+          "Rated": "R",
+          "Released": "04 Aug 2017",
+          "Runtime": "81 min",
+          "Genre": "Thriller",
+          "Director": "Luis Prieto",
+          "Writer": "Knate Lee",
+          "Actors": "Halle Berry, Sage Correa, Chris McGinn, Lew Temple",
+          "Plot": "A mother stops at nothing to recover her kidnapped son.",
+          "Language": "English",
+          "Country": "USA",
+          "Awards": "N/A",
+          "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcyNDgyODEzOV5BMl5BanBnXkFtZTgwMTI4MTA2MjI@._V1_SX300.jpg",
+          "Ratings": [
+              {
+                  "Source": "Internet Movie Database",
+                  "Value": "6.0/10"
+              },
+              {
+                  "Source": "Rotten Tomatoes",
+                  "Value": "40%"
+              },
+              {
+                  "Source": "Metacritic",
+                  "Value": "45/100"
+              }
+          ],
+          "Metascore": "45",
+          "imdbRating": "6.0",
+          "imdbVotes": "7,269",
+          "imdbID": "tt1458169",
+          "Type": "movie",
+          "DVD": "N/A",
+          "BoxOffice": "$10,210,000",
+          "Production": "Aviron Pictures",
+          "Website": "N/A",
+          "Response": "True"
+        },
+        {
+          "Title": "Atomic Blonde",
+          "Year": "2017",
+          "Rated": "R",
+          "Released": "28 Jul 2017",
+          "Runtime": "115 min",
+          "Genre": "Action, Mystery, Thriller",
+          "Director": "David Leitch",
+          "Writer": "Kurt Johnstad (screenplay), Antony Johnston (based on the Oni Press graphic novel series \"The Coldest City\" written by), Sam Hart (based on the Oni Press graphic novel series \"The Coldest City\" illustrated by)",
+          "Actors": "Charlize Theron, James McAvoy, Eddie Marsan, John Goodman",
+          "Plot": "An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.",
+          "Language": "English, German, Russian, Swedish",
+          "Country": "Germany, Sweden, USA",
+          "Awards": "3 wins & 4 nominations.",
+          "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM5NDYzMzg5N15BMl5BanBnXkFtZTgwOTM2NDU1MjI@._V1_SX300.jpg",
+          "Ratings": [
+
+              {
+                  "Source": "Internet Movie Database",
+                  "Value": "7.1/10"
+              },
+              {
+                  "Source": "Rotten Tomatoes",
+                  "Value": "75%"
+              },
+              {
+                  "Source": "Metacritic",
+                  "Value": "63/100"
+              }
+
+          ],
+          "Metascore": "63",
+          "imdbRating": "7.1",
+          "imdbVotes": "32,314",
+          "imdbID": "tt2406566",
+          "Type": "movie",
+          "DVD": "N/A",
+          "BoxOffice": "$34,125,305",
+          "Production": "Focus Features",
+          "Website": "http://www.atomicblonde.com/",
+          "Response": "True"
+        }
+    ]
+}

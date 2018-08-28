@@ -1,0 +1,30 @@
+.nav{
+    display: flex;
+    align-self: center;
+    height: 70px;
+    background-color: #232323;
+}
+.navLeft{
+    margin-left: 4em;
+}
+.searchBar{
+    width: 250px;
+    height: 40px;
+    color: #cdcdcd;
+    background-color: #000;
+    border: 1px solid #cccc;
+    outline: none;
+    padding: 10px;
+    border-radius: 3px;
+    font-size: 16px;
+}
+
+@media (max-width:480px){
+    .navLeft{
+        margin-left: 2em;
+        width: 90%;
+    }
+    .searchBar{
+        width: 80%;
+    }
+}

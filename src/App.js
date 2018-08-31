@@ -51,7 +51,8 @@ class App extends Component {
         </div>
      )
    }
-    return (
+    else {
+     return (
       <div className="App">
         <Header sort_term={this.state.sort_term}
           onSorting={this.onSorting} 
@@ -59,6 +60,7 @@ class App extends Component {
         <Table movies={this.state.modMovies} />
       </div>
     );
+    } 
   } 
 }
 

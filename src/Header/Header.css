@@ -5,26 +5,51 @@
     background-color: #232323;
 }
 .navLeft{
-    margin-left: 4em;
+    display: flex;
+    margin-left: 3em;
+    list-style: none;
+   
 }
-.searchBar{
-    width: 250px;
+.filterBox{
+    width: 200px;
     height: 40px;
     color: #cdcdcd;
-    background-color: #000;
+    background-color: transparent;
     border: 1px solid #cccc;
     outline: none;
     padding: 10px;
     border-radius: 3px;
     font-size: 16px;
+    display: inline-block;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    -webkit-appearance: none;
+    appearance: none;
+}
+.searchBar{
+    width: 250px;
+    height: 40px;
+    color: #cdcdcd;
+    background-color: transparent;
+    border: 1px solid #cccc;
+    outline: none;
+    padding: 10px;
+    border-radius: 3px;
+    font-size: 16px;
+    position: absolute;
+    margin-left: 2em;
+
 }
 
-@media (max-width:480px){
+@media (max-width:580px){
     .navLeft{
-        margin-left: 2em;
-        width: 90%;
+        display: flex;
+        margin-left: 1.6em;
+        width: 80%;
+    }
+    .filterBox{
+        width: 80%;
     }
     .searchBar{
-        width: 80%;
+        width: 60%;
     }
 }
